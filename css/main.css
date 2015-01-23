@@ -4,3 +4,40 @@ html{
 
   color: #fff
 }
+
+h1, h2 {
+  color: #28f2dd;
+  font-weight: normal;
+  font-size: 3rem;
+  line-height:1 ;
+  text-align: center;
+  text-shadow:2px -5px 10px #0c3b36 ;
+  font-family: 'Slabo 27px', serif;
+}
+
+p {
+
+  font-style: italic;
+  text-decoration: underline;/*underline,none, line-through, */
+  text-align: center; /*left, center, righ, justify*/
+  font-family:arial,sans-serif;
+
+
+}
+
+ol{
+  list-style-type:none; /*decimal,lower-alpha,circle,
+  lower-roman,upper-alpha,square,disc, none  */
+  padding: 0;
+
+}
+
+a {
+
+  color: #23e5d0;
+
+}
+
+a:hover {
+  color:#ef99e4;
+}
